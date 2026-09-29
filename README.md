@@ -40,7 +40,7 @@ MySQL
 
 ### Database
 
-<img width="1019" height="587" alt="bael,5" src="https://github.com/user-attachments/assets/ddfe4a8c-9cf0-4698-a416-4b95f0944b98" />
+<img width="1019" height="587" alt="bael,5" src="https://github.com/user-attachments/assets/ddfe4a8c-9cf0-4698-a416-4b95f0944b98" /> 
 
 ## Technologies Used
 
