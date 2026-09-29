@@ -10,7 +10,7 @@ Earl Carlo T. Bael
 
 Course & Year
 
-BSIT - [2nd year]
+BSIT - 2nd year
 
 Database Used
 
