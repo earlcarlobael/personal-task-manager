@@ -26,19 +26,22 @@ MySQL
 
 ## Screenshots
 
-### Dashboard
+### -Dashboard
 
 <img width="1159" height="369" alt="bael,4" src="https://github.com/user-attachments/assets/308f1c4b-c3a0-488b-beb0-7df6a551cc31" />
 
-### Add Task
+### -Add Task
 
 <img width="514" height="391" alt="bael,2" src="https://github.com/user-attachments/assets/0879dfc1-0d0d-4e69-9727-520b6b705630" />
 
-### Edit task
+### -Edit task
 
 <img width="637" height="377" alt="bael,3" src="https://github.com/user-attachments/assets/95c132d0-aedd-44ba-bb7c-7b7fe9ed670f" />
+### Final Task Manager
 
-### Database
+<img width="1127" height="379" alt="bael,1" src="https://github.com/user-attachments/assets/8d6084ff-2c9c-46a9-816b-3a8650e52857" />
+
+### -Database
 
 <img width="1019" height="587" alt="bael,5" src="https://github.com/user-attachments/assets/ddfe4a8c-9cf0-4698-a416-4b95f0944b98" /> 
 
