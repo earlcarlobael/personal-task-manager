@@ -72,6 +72,6 @@ Database Fields
 
 ## installation
 
-### 1. Clone the repository
+### repository
 
 https://github.com/earlcarlobael/personal-task-manager.git
