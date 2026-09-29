@@ -74,5 +74,4 @@ Database Fields
 
 ### 1. Clone the repository
 
-'''bash
-https://github.com/earlcarlobael/personal-task-manager.git
+'''bashhttps://github.com/earlcarlobael/personal-task-manager.git
