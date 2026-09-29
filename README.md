@@ -1,22 +1,22 @@
-Personal Task Manager
+# Personal Task Manager
 
-Project Code
+# Project Code
 
 WST21-PM-2026-SF
 
-Student Name
+# Student Name
 
 Earl Carlo T. Bael
 
-Course & Year
+# Course & Year
 
 BSIT - 2nd year
 
-Database Used
+## Database Used
 
 MySQL
 
-Features
+## Features
 
 - Add Task
 - View Tasks
@@ -24,7 +24,13 @@ Features
 - Delete Tasks
 - Update Status
 
-Technologies Used
+## Screenshots
+
+### Dashboard
+![Dashboard] <img width="1159" height="369" alt="bael,4" src="https://github.com/user-attachments/assets/308f1c4b-c3a0-488b-beb0-7df6a551cc31" />
+
+
+## Technologies Used
 
 - Laravel
 - PHP
@@ -34,7 +40,7 @@ Technologies Used
 - CSS
 - XAMPP
 
-Description
+## Description
 
 A simple Personal Task Manager developed using Laravel and MySQL.
 
