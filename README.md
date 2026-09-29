@@ -24,7 +24,7 @@ MySQL
 - Delete Tasks
 - Update Status
 
-## Screenshots
+# Screenshots
 
 ### -Dashboard
 
@@ -37,7 +37,8 @@ MySQL
 ### -Edit task
 
 <img width="637" height="377" alt="bael,3" src="https://github.com/user-attachments/assets/95c132d0-aedd-44ba-bb7c-7b7fe9ed670f" />
-### Final Task Manager
+
+### -Final Task Manager
 
 <img width="1127" height="379" alt="bael,1" src="https://github.com/user-attachments/assets/8d6084ff-2c9c-46a9-816b-3a8650e52857" />
 
