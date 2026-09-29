@@ -27,7 +27,7 @@ MySQL
 ## Screenshots
 
 ### Dashboard
-![Dashboard](<img width="1159" height="369" alt="bael,4" src="https://github.com/user-attachments/assets/308f1c4b-c3a0-488b-beb0-7df6a551cc31" />)
+![Dashboard] (<img width="1159" height="369" alt="bael,4" src="https://github.com/user-attachments/assets/308f1c4b-c3a0-488b-beb0-7df6a551cc31" />)
 
 
 ## Technologies Used
