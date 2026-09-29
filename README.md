@@ -69,3 +69,10 @@ Database Fields
 - description
 - status
 - due_date
+
+## installation
+
+### 1. Clone the repository
+
+'''bash
+https://github.com/earlcarlobael/personal-task-manager.git
